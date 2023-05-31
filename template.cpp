@@ -1,7 +1,5 @@
 #include <iostream>
 
-using namespace std;
-
 /*
     input: 
 
@@ -12,6 +10,7 @@ int main()
 {
     freopen("../input.in", "r", stdin);
     // code
-    
+    printf("hello world!\n");
+
     return 0;
 }
